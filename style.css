@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(16, 21, 92);
+    color: wheat;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
