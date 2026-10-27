@@ -1,33 +1,41 @@
 body {
     background-color: rgb(16, 18, 47);
     color: rgb(223, 160, 202);
+    line-height: 1.6;
+
+    margin: 0;
+}
+
+div {
+    max-width: 800px;
+    margin: auto;
 }
 
 h1 {
-    font-size: 100px;
+    margin: 0;
+    font-size: 80px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
     text-align: center;
-    line-height: 0;
 }
 h2 {
-    text-align: center;
+
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h3 {
 
-    text-align: center;
+
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 p {
-    text-align: center;
+
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 ul {
     list-style: none;
-    text-align: center;
     font-size: 60px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -40,7 +48,6 @@ img {
 
 a:-webkit-any-link {
 
-    text-align: center;
     cursor: crosshair;
     text-decoration: none;
     color: rgb(55, 142, 176);
@@ -48,9 +55,11 @@ a:-webkit-any-link {
 }
 
 nav {
+    margin-top: 25px;
+    text-align: center;
 
     font-size: 25px;
-    text-align: center;
+
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -66,6 +75,5 @@ nav :hover {
 
 main{
 
-    text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
