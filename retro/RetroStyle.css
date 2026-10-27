@@ -77,3 +77,26 @@ main{
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+section {
+    background-color: rgba(9, 11, 28, 0.6);
+padding: 25px;
+    margin: 20px 0;
+
+}
+
+.info h1 {
+    margin-top: 0;
+}
+
+.button {
+    background-color: pink;
+    color: rgb(113, 120, 217);
+    padding: 12px 25px;
+}
+
+.button:hover {
+    background-color: cyan;
+    color: rgb(237, 233, 233);
+}
+
