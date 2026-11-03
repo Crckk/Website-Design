@@ -100,3 +100,6 @@ padding: 25px;
     color: rgb(237, 233, 233);
 }
 
+strong {
+    color: red
+}
